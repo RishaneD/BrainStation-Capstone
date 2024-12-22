@@ -1,0 +1,19 @@
+name: capstone
+channels:
+  - plotly
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - seaborn
+  - numpy
+  - python=3.8
+  - scikit-learn=0.24
+  - jupyterlab
+  - jupyter
+  - matplotlib
+  - tensorflow
+  - keras
+  - shap
+  - econml
+  - shap==0.44.1
